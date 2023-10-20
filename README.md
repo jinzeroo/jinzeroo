@@ -1,3 +1,21 @@
+#웹퍼블리셔 지망생 :서진영
+## I aspire to become a prospective web publisher.
+깃 허브 프로필 소개입니다.
+
+경력과 스킬&툴 포트폴리오등의 소개가 있습니다
+
+### 기본정보
+-1998.9.9
+
+-경기도 성남시 거주
+
+-여자
+
+-ISFJ
+
+
+
+<h1 align="left"> Hi , I'm 서 진영</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **삼성전자**
