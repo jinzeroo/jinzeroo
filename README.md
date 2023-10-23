@@ -16,7 +16,7 @@
 
 
 <h1 align="left"> Hi , I'm 서 진영</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I aspire to become a prospective web publisher</h3>
 
 - 🔭 I’m currently working on **삼성전자**
 
